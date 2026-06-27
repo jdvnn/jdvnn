@@ -24,7 +24,6 @@
 
 ## Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
-<img src="https://skillicons.dev/icons?i=visualstudio" height="42"/>
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+</p>
