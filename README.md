@@ -21,17 +21,10 @@
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,pycharm,windows&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,&theme=dark"/>
 </p>
 
----
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jdvnn&theme=transparent&hide_border=true"/>
-
-</div>
-```
