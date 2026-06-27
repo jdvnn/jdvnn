@@ -25,11 +25,8 @@
 ## Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio-black?style=flat&logo=visualstudio&logoColor=5C2D91"/>
-  <img src="https://img.shields.io/badge/VS_Code-black?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Windows-black?style=flat&logo=windows"/>
-  <img src="https://img.shields.io/badge/PowerShell-black?style=flat&logo=powershell"/>
-  <img src="https://img.shields.io/badge/Discord-black?style=flat&logo=discord"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=5C2D91"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github"/>
 </p>
