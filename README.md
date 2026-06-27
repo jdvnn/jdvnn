@@ -25,8 +25,10 @@
 ## Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=5C2D91"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="42"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="42"/>
+  <img src="https://skillicons.dev/icons?i=git" height="42"/>
+  <img src="https://skillicons.dev/icons?i=github" height="42"/>
+  <img src="https://skillicons.dev/icons?i=windows" height="42"/>
+  <img src="https://skillicons.dev/icons?i=powershell" height="42"/>
+  </p>
