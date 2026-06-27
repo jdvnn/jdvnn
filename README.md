@@ -25,10 +25,6 @@
 ## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="42"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="42"/>
-  <img src="https://skillicons.dev/icons?i=git" height="42"/>
-  <img src="https://skillicons.dev/icons?i=github" height="42"/>
-  <img src="https://skillicons.dev/icons?i=windows" height="42"/>
-  <img src="https://skillicons.dev/icons?i=powershell" height="42"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
+<img src="https://skillicons.dev/icons?i=visualstudio" height="42"/>
   </p>
